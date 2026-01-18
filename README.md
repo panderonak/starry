@@ -61,17 +61,14 @@ real-time messaging, and automatic data deletion.
 This diagram explains how users join rooms, how access is validated,
 and how retries and capacity limits are handled.
 
-- Room join and authentication flow
-
-
+<img width="1405" height="2600" alt="Realtime Chat - Proxy" src="https://github.com/user-attachments/assets/a8c886aa-dade-42c6-8273-6f3707e52c60" />
 
 ### 💬 Message Delivery & Realtime Flow
 
 This diagram shows how messages are written once, broadcast in real time,
 and automatically deleted after expiration.
 
-- Message lifecycle and realtime flow
-
+<img width="1881" height="827" alt="Realtime Chat - Message" src="https://github.com/user-attachments/assets/bcf9df08-c1e9-451a-843a-5bd3b4ec46ce" />
 
 ## 🔁 How It Works (Step by Step)
 
