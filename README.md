@@ -38,6 +38,10 @@ Redis and expire with the room. No account or sign-in is required.
 6. Redis automatically removes room data when its TTL expires, or a
    participant can destroy the room immediately.
 
+## Demo
+
+https://github.com/user-attachments/assets/04f0b29c-4cb1-40e6-8315-df4d1a552464
+
 ## 🧠 Architecture & Flow
 
 Visual overview of how Starry handles room access, authentication,
