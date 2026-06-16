@@ -25,7 +25,8 @@ const Page = () => {
             className={cn(
               buttonVariants({
                 size: "lg",
-              }), "text-md px-8 py-4 hover:scale-[1.02]",
+              }),
+              "text-md px-8 py-4 hover:scale-[1.02]",
             )}
           >
             Create a room
